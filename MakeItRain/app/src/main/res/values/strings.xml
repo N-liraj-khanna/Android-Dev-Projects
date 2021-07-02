@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MakeItRain</string>
+    <string name="app_head"><![CDATA[You Have =>]]></string>
+    <string name="app_money">£0.00</string>
+    <string name="main_button">Make It Rain</string>
+    <string name="tag_name">Show Tag</string>
+    <string name="click_me">Click Me!</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataBase FCC</string>
+    <string name="name">Name</string>
+    <string name="active">Active!</string>
+    <string name="add_up">Add Up!</string>
+    <string name="view_all">View ALL</string>
+    <string name="age">Age</string>
+    <string name="dropTable">DROP TABLE IF EXISTS</string>
+</resources>

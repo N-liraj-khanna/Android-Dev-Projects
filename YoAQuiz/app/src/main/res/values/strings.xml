@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yo! A Quiz!?</string>
+    <string name="mainTitle">Yo! A Quiz!?</string>
+    <string name="trueButton">True</string>
+    <string name="falseButton">False</string>
+    <string name="prevButton">Previous Button</string>
+    <string name="nextButton">Next Button</string>
+    <string name="wrongAnswer">"Err! Wrong Answer"</string>
+    <string name="correctAnswer">"Awsm! Correct Answer"</string>
+    <string name="reset">Reset</string>
+</resources>

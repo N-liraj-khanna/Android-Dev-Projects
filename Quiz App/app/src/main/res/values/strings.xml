@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">You a Nerd!?</string>
+    <string name="first_title">Your Quiz => </string>
+
+    <string name="first">"A" is the most common letter used in the English language => </string>
+    <string name="second">M&amp;M stands for Mickey and Moordale => </string>
+    <string name="third">The unicorn is the national animal of Scotland => </string>
+    <string name="fourth">A lion\'s roar can be heard up to eight kilometers away => </string>
+    <string name="fifth">Monaco is the smallest country in the world => </string>
+    <string name="sixth">There are five main blood groups => </string>
+    <string name="seventh">Cinderella was the first Disney princess animated movie => </string>
+    <string name="eight">Goldfish only have a memory of three seconds => </string>
+    <string name="ninth">A group of swans is known as a "bevy" => </string>
+    <string name="tenth">A heptagon has eight sides => </string>
+
+    <string name="correct_answer">Correct Answer!</string>
+    <string name="wrong_answer">Wrong Answer!</string>
+
+    <string name="True">True</string>
+    <string name="False">False</string>
+</resources>
